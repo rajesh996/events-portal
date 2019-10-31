@@ -1,4 +1,7 @@
 # events-portal
+
+Events portal is a website which is developed to host events and make tickets offerings online. This website is actually being developed for internship assignment at a company, but the knowledge gained from this project was used and was applied for other projects also.
+
 A website where users are required to first register on the website and then the users are taken to the login page and then they are given an option to add a new event there.
 In the add new event page the details of the event like Event name, Event location, Event description, Event start date and event end date and also an image for the event hase to be added in order to add the event to the events database.
 
